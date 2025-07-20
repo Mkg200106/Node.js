@@ -1,0 +1,16 @@
+{
+  "name": "express_routes",
+  "version": "1.0.0",
+  "description": "home-page view for your recipe application that people can visit to see an estimated date of completion for your application",
+  "license": "ISC",
+  "author": "Martha",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "nodemon main.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "first_express_project",
+  "version": "1.0.0",
+  "description": "Setting up an app using Express.js package",
+  "license": "ISC",
+  "author": "Martha",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "nodemon main.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
